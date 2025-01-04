@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Eudaimonia Blog</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 17:54:13 +0800</lastBuildDate>
     <atom:link href="https://pauldchuang.github.io/EudaimoniaBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://pauldchuang.github.io/EudaimoniaBlog/posts/second-post/</link>
+      <pubDate>Sat, 04 Jan 2025 17:54:13 +0800</pubDate>
+      <guid>https://pauldchuang.github.io/EudaimoniaBlog/posts/second-post/</guid>
+      <description></description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://pauldchuang.github.io/EudaimoniaBlog/posts/my-first-post/</link>
